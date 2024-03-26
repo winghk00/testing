@@ -1,1 +1,2 @@
 hihi
+print ("all")
